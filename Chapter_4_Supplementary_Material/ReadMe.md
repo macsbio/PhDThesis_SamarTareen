@@ -1,6 +1,6 @@
 
 # PhD Thesis of Samar Tareen
-
+ 
 ## Supplementary material for Thesis Chapter 4:
 Logical modelling reveals the PDC-PDK interaction as the regulatory switch driving metabolic flexibility at the cellular level
 
